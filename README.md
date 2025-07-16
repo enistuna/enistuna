@@ -1,5 +1,5 @@
-# 💫 About Me:
-I study Linguistics at the Dokuz Eylül University. I specialize in Computational Linguistics, everything spanning from Data Mining to Chatbots. My education complements my expertise, emphasizing my passion for Natural Language Processing. <br><br>Developing Turkish Linguistics Analyzer **İncesöz v1.0** embodies my drive to merge linguistic knowledge with practical Turkish AI applications and is a quintessential part of proving my qualification in this field. <br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
+# 🎯 About Me:
+Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I specialize in Computational Linguistics, everything spanning from Data Mining to Chatbots. My education complements my expertise, emphasizing my passion for Natural Language Processing. <br><br>Developing Turkish Linguistics Analyzer **İncesöz v1.0** embodies my drive to merge linguistic knowledge with practical Turkish AI applications and is a quintessential part of proving my qualification in this field. <br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
 
 
 ## 🌐 Socials:
