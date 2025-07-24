@@ -35,9 +35,13 @@ Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I speci
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="additional_icons\powerBI.svg" height="40" alt="power bi logo"  />
+  <img src="additional_icons/powerBI.svg" height="40" alt="power bi logo"  />
   <img width="12" />
-  <img src="additional_icons\tableau.svg" height="40" alt="tableau logo"  />
+  <img src="additional_icons/tableau.svg" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="additional_icons/dart.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="additional_icons/flutter.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   
 </div>
