@@ -10,6 +10,9 @@ Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I speci
   <a href="mailto:enissstuna@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://drive.google.com/file/d/1_tJfMshUswAx8m8JhQMCFXMUT7kGT_K6/view?usp=sharing">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 # 💻 Tech Stack:
