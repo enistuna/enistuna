@@ -2,7 +2,7 @@
 Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I specialize in Computational Linguistics, everything spanning from Data Mining to Chatbots. My education complements my expertise, emphasizing my passion for Natural Language Processing. <br><br>Developing Turkish Linguistics Analyzer **İncesöz v1.0** embodies my drive to merge linguistic knowledge with practical Turkish AI applications and is a quintessential part of proving my qualification in this field. <br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
 
 
-## 🌐 Contact:
+## 🌐 Contact & CV:
 <div align="left">
   <a href="https://linkedin.com/in/enistuna">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
