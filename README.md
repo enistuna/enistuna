@@ -53,7 +53,7 @@ Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I speci
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=enistuna&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=enistuna&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enistuna&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=enistuna&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=enistuna&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enistuna&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
