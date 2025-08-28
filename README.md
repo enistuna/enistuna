@@ -7,7 +7,7 @@ Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I speci
   <a href="https://linkedin.com/in/enistuna">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1_tJfMshUswAx8m8JhQMCFXMUT7kGT_K6/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_DiE1MVVRBF37OT6AC4Wm9B_gViN6yrv/view?usp=sharing">
     <img src="additional_icons/resume.svg" width="52" height="40" alt="resume"  />
   </a>
   <a href="mailto:enissstuna@gmail.com">
