@@ -1,5 +1,11 @@
 # 🎯 About Me:
-Howdy!👋 I'm Enis. I study Linguistics at the Dokuz Eylül University. I specialize in Computational Linguistics, everything spanning from Data Mining to Chatbots. My education complements my expertise, emphasizing my passion for Natural Language Processing. <br><br>Developing Turkish Linguistics Analyzer **İncesöz v1.0** embodies my drive to merge linguistic knowledge with practical Turkish AI applications and is a quintessential part of proving my qualification in this field. <br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
+Howdy!👋 I'm Enis. 
+
+I'm a Linguistics student at Dokuz Eylül University, specializing in Computational Linguistics. My academic journey has given me a deep understanding of Natural Language Processing (NLP) and fuels my passion for applying linguistic knowledge to practical AI solutions.
+
+My drive to merge theory with practice is exemplified by my work on the Turkish Language Analyzer, "İncesöz v1.0." This project is a tangible representation of my skills in developing linguistic applications. Additionally, I contributed to the development and project management of the "Reishi" project, a graduation project from the Artificial Intelligence and Technology Academy, where I collaborated with a team of fellow students.
+
+I'm confident about the route that I've taken and I'm interested to see what the future has instore for me :)
 
 
 ## 🌐 Contact & CV:
