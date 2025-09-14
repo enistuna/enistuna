@@ -1,14 +1,4 @@
-# 🎯 About Me:
-Howdy!👋 I'm Enis. 
-
-I'm a Linguistics student at Dokuz Eylül University, specializing in Computational Linguistics. My academic journey has given me a deep understanding of Natural Language Processing (NLP) and fuels my passion for applying linguistic knowledge to practical AI solutions.
-
-My drive to merge theory with practice is exemplified by my work on the Turkish Language Analyzer, "İncesöz v1.0." This project is a tangible representation of my skills in developing linguistic applications. Additionally, I contributed to the development and project management of the "Reishi" project, a graduation project from the Artificial Intelligence and Technology Academy, where I collaborated with a team of fellow students.
-
-I'm confident about the route that I've taken and I'm interested to see what the future has instore for me :)
-
-
-## 🌐 Contact & CV:
+# 🌐 Contact & Resume:
 <div align="left">
   <a href="https://linkedin.com/in/enistuna">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
