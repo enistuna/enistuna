@@ -1,3 +1,6 @@
+# 🎯 About Me:
+Howdy!👋 I'm Enis. I'm a Linguistics student at Dokuz Eylül University, specializing in Computational Linguistics and Data Science. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions.<br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
+
 # 🌐 Contact & Resume:
 <div align="left">
   <a href="https://linkedin.com/in/enistuna">
@@ -44,12 +47,4 @@
   <img width="12" />
   
 </div>
-
-###
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=enistuna&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=enistuna&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enistuna&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
