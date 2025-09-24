@@ -6,11 +6,11 @@ Howdy!👋 I'm Enis. I'm a Linguistics student at Dokuz Eylül University, speci
   <a href="https://linkedin.com/in/enistuna">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1_DiE1MVVRBF37OT6AC4Wm9B_gViN6yrv/view?usp=sharing">
-    <img src="additional_icons/resume.svg" width="52" height="40" alt="resume"  />
-  </a>
   <a href="mailto:enissstuna@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://drive.google.com/file/d/1XNvhPLBoNO2mX36Aa3C4q-nBwtdAD8D-/view?usp=sharing">
+    <img src="additional_icons/resume.svg" width="52" height="40" alt="resume"  />
   </a>
 </div>
 
