@@ -4,13 +4,13 @@ Howdy!👋 I'm Enis. I'm a Linguistics student at Dokuz Eylül University, speci
 # 🌐 Contact & Resume:
 <div align="left">
   <a href="https://linkedin.com/in/enistuna">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="additional_icons\linkedin_48px.png" alt="linkedin"  />
   </a>
   <a href="mailto:enissstuna@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="additional_icons\gmail_48px.png" width="45" height="45" alt="gmail"  />
   </a>
   <a href="https://drive.google.com/file/d/1XNvhPLBoNO2mX36Aa3C4q-nBwtdAD8D-/view?usp=sharing">
-    <img src="additional_icons/resume.svg" width="52" height="40" alt="resume"  />
+    <img src="additional_icons\resume_48px.png" alt="resume"  />
   </a>
 </div>
 
