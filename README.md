@@ -41,10 +41,6 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <img width="12" />
   <img src="additional_icons/tableau.svg" height="40" alt="tableau logo"  />
   <img width="12" />
-  <img src="additional_icons/dart.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="additional_icons/flutter.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
   
 </div>
 
