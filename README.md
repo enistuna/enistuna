@@ -21,8 +21,6 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
@@ -32,6 +30,10 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="additional_icons\fastapi.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="additional_icons\django.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="additional_icons/powerBI.svg" height="40" alt="power bi logo"  />
   <img width="12" />
