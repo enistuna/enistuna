@@ -33,8 +33,6 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <img width="12" />
   <img src="additional_icons\fastapi.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="additional_icons\django.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="additional_icons/powerBI.svg" height="40" alt="power bi logo"  />
   <img width="12" />
   <img src="additional_icons/tableau.svg" height="40" alt="tableau logo"  />
