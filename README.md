@@ -1,3 +1,5 @@
+<img src="additional_icons\background_banner.png" alt="banner"  />
+
 # 🎯 About Me:
 Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Linguistics at Dokuz Eylul University, specializing in Computational Linguistics and Data Science. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions.<br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
 
@@ -9,7 +11,7 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <a href="mailto:enissstuna@gmail.com">
     <img src="additional_icons\gmail_48px.png" width="45" height="45" alt="gmail"  />
   </a>
-  <a href="https://drive.google.com/file/d/1r0Qgb8SLfQp2yzOYh_PDIQVeGQ8-YzPN/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1vKGg06Y-hpEXpIVVxyinPg3JBSVoYhKy/view?usp=sharing">
     <img src="additional_icons\resume_48px.png" alt="resume"  />
   </a>
 </div>
@@ -42,6 +44,5 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  
 </div>
 
