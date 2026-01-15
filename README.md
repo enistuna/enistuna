@@ -1,7 +1,7 @@
 <img src="additional_icons\background_banner.png" alt="banner"  />
 
 # 🎯 About Me:
-Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Linguistics at Dokuz Eylul University, specializing in Computational Linguistics and Data Science. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions.<br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
+Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Linguistics at Dokuz Eylul University, specializing in Computational Linguistics and Data Science. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions. I'm planning to pursue a M.Sc. degree to deepen my technical skill further. <br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
 
 # 🌐 Contact & Resume:
 <div align="left">
@@ -40,6 +40,12 @@ Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Lingu
   <img src="additional_icons/powerBI.svg" height="40" alt="power bi logo"  />
   <img width="12" />
   <img src="additional_icons/tableau.svg" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="additional_icons\rasa.webp" height="40" alt="rasa logo"  />
+  <img width="12" />
+  <img src="additional_icons\langchain.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="additional_icons\chainlit.svg" height="40" alt="chainlit logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
