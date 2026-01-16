@@ -1,5 +1,3 @@
-<img src="additional_icons\background_banner.png" alt="banner"  />
-
 # 🎯 About Me:
 Howdy!👋 My name is Enis, and I am a final-year undergraduate student in Linguistics at Dokuz Eylul University, specializing in Computational Linguistics and Data Science. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions. I'm planning to pursue a M.Sc. degree after graduation to deepen my technical skills even further. <br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
 
