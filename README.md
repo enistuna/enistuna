@@ -53,6 +53,6 @@ Howdy!👋 My name is Enis Tuna, and I am a final-year undergraduate student in 
 </div>
 
 
-![](https://streak-stats.demolab.com/?user=enistuna&theme=shadow_blue&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=enistuna&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=enistuna&theme=transparent&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=enistuna&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
