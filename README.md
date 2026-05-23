@@ -52,3 +52,7 @@ Howdy!👋 My name is Enis Tuna, and I am a final-year undergraduate student in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+
+![](https://streak-stats.demolab.com/?user=enistuna&theme=shadow_blue&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=enistuna&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
