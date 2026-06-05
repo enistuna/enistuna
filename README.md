@@ -1,5 +1,5 @@
 # About Me:
-Howdy!👋 My name is Enis Tuna, and I am a final-year undergraduate student in Linguistics at Dokuz Eylul University, specializing in Computational Linguistics. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions. I'm planning to pursue a M.Sc. degree after graduation to deepen my technical skills, thus aiming to shape the next generation of trustworthy and semantically accurate AI systems.<br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
+Howdy!👋 My name is Enis Tuna, and I am a final-year undergraduate student in Linguistics at Dokuz Eylul University, specializing in Computational Linguistics. My academic journey has given me a deep understanding of NLP and it fuels my passion for applying linguistic knowledge to real-world solutions.<br><br>I'm confident about the route that I've taken and I'm interested to see what the future has instore for me.
 
 # Contact & Resume:
 <div align="left">
@@ -9,7 +9,7 @@ Howdy!👋 My name is Enis Tuna, and I am a final-year undergraduate student in 
   <a href="mailto:enissstuna@gmail.com">
     <img src="additional_icons\gmail_48px.png" width="45" height="45" alt="gmail"  />
   </a>
-  <a href="https://drive.google.com/file/d/13xAuzJW2rOyp-LC9RzRKQJF1_gu0ADQR/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1ZgZTeQThuFrIl_EMqpYxa5enMgCG7ewI/view?usp=sharing">
     <img src="additional_icons\resume_48px.png" alt="resume"  />
   </a>
 </div>
