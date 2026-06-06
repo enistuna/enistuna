@@ -9,7 +9,7 @@ Howdy!👋 My name is Enis Tuna, and I am a final-year undergraduate student in 
   <a href="mailto:enissstuna@gmail.com">
     <img src="additional_icons\gmail_48px.png" width="45" height="45" alt="gmail"  />
   </a>
-  <a href="https://drive.google.com/file/d/1ZgZTeQThuFrIl_EMqpYxa5enMgCG7ewI/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/19xeNi0Qh3MiN2cHEyw50AKR7UEtbWNtO/view?usp=sharing">
     <img src="additional_icons\resume_48px.png" alt="resume"  />
   </a>
 </div>
